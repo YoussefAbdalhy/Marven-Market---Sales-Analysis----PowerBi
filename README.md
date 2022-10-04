@@ -1,5 +1,5 @@
 # Marven-Market---Sales-Analysis----PowerBi
-## This Project is based on a fictional dataset and part of “Microsoft Power BI Desktop for Business Intelligence” course on Udemy. 
+This Project is based on a fictional dataset and part of “Microsoft Power BI Desktop for Business Intelligence” course on Udemy. 
 
 ### Project Overview:
 Maven Market, is a multi-national grocery chain with locations in Canada, Mexico, and the United States.
